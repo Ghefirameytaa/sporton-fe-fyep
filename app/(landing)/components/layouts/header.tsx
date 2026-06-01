@@ -7,7 +7,7 @@ const Header = () => {
     <header className="flex justify-between">
       <div  className="flex justify-between gap-10 container mx-auto py-7">
         <Image 
-        src="images/logo.svg"
+        src="/images/logo.svg"
         alt="sporton logo"
         width={127}
         height={30}

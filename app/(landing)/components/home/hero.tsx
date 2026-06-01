@@ -15,8 +15,10 @@ const HeroSection = () => {
         />
 
         <div className="relative ml-40 w-full">
-          <div className="text-primary italic -mt-30 -ml-25">
-            Friday Sale, 50%
+          <div className="-mt-30 -ml-25">
+            <span className="inline-flex items-center px-6 h-[37px] rounded-[50px] bg-[#FF5F3F1C] text-primary italic">
+              Friday Sale, 50%
+            </span>
           </div>
 
           <h1 className="font-extrabold text-[95px] italic leading-[101px] tracking-normal -ml-4 bg-clip-text bg-gradient-to-b from-black to-[#979797] text-transparent -ml-30">
