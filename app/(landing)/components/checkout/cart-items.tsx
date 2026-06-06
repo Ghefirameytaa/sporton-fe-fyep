@@ -58,7 +58,7 @@ const CartItems = () => {
                 ))}
             </div>
 
-            <div className="border-t border-gray-200 p-4">
+            <div className="border-t border-gray-200 p-4 mt-27">
                 <div className="flex justify-between font-semibold">
                     <div className="text-sm">Total</div>
                     <div className="text-primary text-xs">
